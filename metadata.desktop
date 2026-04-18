@@ -1,9 +1,9 @@
 ; https://github.com/uiriansan/SilentSDDM
 
 [SddmGreeterTheme]
-Name=Silent
+Name=Graphite
 Type=sddm-theme
-Description=A very customizable SDDM theme that actually looks good.
+Description=A very customizable SDDM theme fork that actually looks good. Includes Graphite configs as well.
 License=GPL-3.0-or-later
 Version=1.4.0
 Theme-Id=silent
@@ -13,7 +13,7 @@ Screenshot=docs/previews/default.png
 TranslationsDirectory=translations
 QtVersion=6
 
-ConfigFile=configs/default.conf
+ConfigFile=configs/graphite.conf
 # ConfigFile=configs/default-left.conf
 # ConfigFile=configs/default-right.conf
 # ConfigFile=configs/rei.conf
